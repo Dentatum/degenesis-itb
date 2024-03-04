@@ -24,7 +24,7 @@
             "name": "actors",
             "label": "ITB - Actors",
             "path": "./packs/itb-actors",
-			"banner": "/modules/degenesis-es-cmp/packs/ui/itb.webp",
+			"banner": "/modules/degenesis-itb/packs/ui/itb-actors.png",
             "system": "degenesis",
             "type": "Actor",
             "entity": "itb-actors"
