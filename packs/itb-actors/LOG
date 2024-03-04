@@ -1,5 +1,1 @@
-2024/03/04-10:31:44.030 30c4 Delete type=3 #1
-2024/03/04-10:33:10.000 2a24 Level-0 table #5: started
-2024/03/04-10:33:10.006 2a24 Level-0 table #5: 161405 bytes OK
-2024/03/04-10:33:10.008 2a24 Delete type=0 #3
-2024/03/04-10:33:10.011 2a24 Manual compaction at level-0 from '!actors!26pbZepIW4RjrhB9' @ 72057594037927935 : 1 .. '!folders!Sbz8xyKdmrdecphP' @ 0 : 0; will stop at (end)
+2024/03/04-11:27:37.677 2108 Delete type=3 #1
