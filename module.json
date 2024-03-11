@@ -1,8 +1,8 @@
 {
     "id": "degenesis-itb",
     "title": "Degenesis: Rebirth - In Thy Blood",
-    "description": "Placeholder",
-    "version": "0.1",
+    "description": "",
+    "version": "0.2",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -19,17 +19,24 @@
             }
         ]
     },
+    "authors": [
+        {
+            "name": "Dentatum",
+            "discord": ".dentatum",
+            "flags": {}
+        }
+    ],
     "packs": [
         {
             "name": "actors",
             "label": "ITB - Actors",
             "path": "./packs/itb-actors",
-			"banner": "/modules/degenesis-itb/packs/assets/banners/itb-actors.png",
+            "banner": "/modules/degenesis-itb/packs/assets/banners/itb-actors.png",
             "system": "degenesis",
             "type": "Actor",
             "entity": "itb-actors"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/Dentatum/degenesis-itb/master/module.json",
-	"download": "https://github.com/Dentatum/degenesis-itb/archive/refs/heads/master.zip"
+    "download": "https://github.com/Dentatum/degenesis-itb/archive/refs/heads/master.zip"
 }
